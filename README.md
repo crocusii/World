@@ -1,1 +1,1 @@
-<a href="crocusii.png"></a>
+<img src="crocusii.png" />
